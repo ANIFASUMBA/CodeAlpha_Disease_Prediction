@@ -1,6 +1,7 @@
 # Disease Prediction from Medical Data
 
 This repository contains a Machine Learning pipeline that predicts disease outcomes using structured clinical datasets.
+
 ## Key Features
 - Algorithms: Logistic Regression, Support Vector Machine (SVM), Random Forest, and XGBoost.
 - Evaluation Metrics: Confusion Matrices, Classification Reports, and ROC-AUC Curves.
